@@ -1,4 +1,4 @@
-# Hack_365
+# Learn 365
 Read Pentesting Articles for 365 days !
 
 > Start Date : 31 March, 2025
